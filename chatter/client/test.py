@@ -1,4 +1,4 @@
-from old_msg_server.client import Client
+from client import Client
 import time
 from threading import Thread
 
